@@ -6,9 +6,9 @@ color:
   saturation: 0.7447503416333348
   rhythmicContrast: 0.7369219765532762
   brandColors:
-    - '#36362C'
-    - '#5D917D'
-    - '#A8AD80'
-    - '#E6D4A7'
-    - '#825534'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
 name: steady robotics
