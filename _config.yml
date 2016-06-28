@@ -1,0 +1,14 @@
+layout_spectrum: 0.1964921597391367
+typography_spectrum: 0.809716546209529
+color:
+  brandStrength: 0.082828713580966
+  lightness: 0.5522369290702045
+  saturation: 0.7447503416333348
+  rhythmicContrast: 0.7369219765532762
+  brandColors:
+    - '#36362C'
+    - '#5D917D'
+    - '#A8AD80'
+    - '#E6D4A7'
+    - '#825534'
+name: steady robotics
